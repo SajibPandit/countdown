@@ -35,7 +35,7 @@ body{
   }
   .middle{
     position: absolute;
-    top: 70%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: center;
@@ -79,8 +79,7 @@ body{
   div p{
       position: absolute;
       text-align:center;
-      font-size:40px;
-      font-weight: 100;
+      font-size:35px;
       color:#fff;
       top: 25%;
         left: 50%;
