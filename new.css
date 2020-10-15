@@ -103,7 +103,7 @@ body{
   }
   footer span a{
     text-align: center;
-    text-decoration: none;
+    text-decoration: underline;
     color: #fff;
   }
   footer span a:hover{
